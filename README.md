@@ -1,4 +1,4 @@
-# Ex.06 Book Cover Page Design
+# Ex.6 Book Cover Page Design
 ## Date: 12.11.2025
 
 ## AIM:
